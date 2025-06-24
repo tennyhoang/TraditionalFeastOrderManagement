@@ -51,7 +51,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/TraditionalFeastOrderMan.git
+git clone https://github.com/tennyhoang/TraditionalFeastOrderMan.git
 Compile all files:
 
 bash
